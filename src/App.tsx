@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Github, Linkedin, Mail, ExternalLink, Code2, User, Briefcase, Brain, Send } from 'lucide-react';
+import { Github, Linkedin, Mail, ExternalLink, Code2, User, Brain, Send } from 'lucide-react';
 
 function App() {
   const [formData, setFormData] = useState({
@@ -90,13 +90,10 @@ function App() {
             />
             <div>
               <p className="text-gray-300 leading-relaxed">
-                Hi! I'm Rafael Lemos, a 25-year-old Full Stack Developer in constant evolution. 
-                Although I haven't worked formally in the field yet, I have developed various 
-                individual projects that demonstrate my ability to create complete solutions, 
-                from front-end to back-end. I'm passionate about technology, self-taught, and 
-                always eager to learn new tools and frameworks to deliver results that combine 
-                functionality, design, and innovation. I'm ready to take on new challenges and 
-                contribute to impactful projects!
+              Oi! Sou Rafael Lemos, um Desenvolvedor Full Stack de 25 anos em constante evolução.
+Embora ainda não tenha trabalhado formalmente na área, desenvolvi diversos projetos individuais que demonstram minha capacidade de criar soluções completas, do front-end ao back-end.
+Sou apaixonado por tecnologia, autodidata e estou sempre em busca de aprender novas ferramentas e frameworks para entregar resultados que combinem funcionalidade, design e inovação.
+Estou pronto para enfrentar novos desafios e contribuir para projetos impactantes!
               </p>
             </div>
           </div>
