@@ -18,10 +18,10 @@ function App() {
 
   const projects = [
     {
-      name: 'Cash App',
-      description: 'Um front-end desenvolvido como "desafio de replicação" na Digital College',
-      tech: ['React', 'HTML', 'CSS', 'TailwindCSS'],
-      link: 'https://cash-app-digitalcollege.vercel.app'
+      name: 'Landing Page Solar',
+      description: 'Uma landing page para um site sobre geração e venda de energia solar.',
+      tech: ['React', 'HTML', 'CSS', 'TailwindCSS', 'JS'],
+      link: 'https://landing-page-solar.vercel.app'
     },
     {
       name: 'Busca por Região',
