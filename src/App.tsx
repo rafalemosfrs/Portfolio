@@ -30,10 +30,16 @@ function App() {
       link: 'https://busca-por-regiao.vercel.app'
     },
     {
-      name: 'Landing Page',
+      name: 'Landing Page Dentista',
       description: 'Uma Landing Page moderna e clean para um consultório de dentista.',
       tech: ['HTML', 'CSS', 'TailwindCSS', 'JS'],
       link: 'https://rafalemosfrs.github.io/LandingPage-Dentista/'
+    },
+    {
+      name: 'Site para Engenharia Solar',
+      description: 'Um site moderno e minimalista para uma empresa de engenharia elétrica voltada para a energia solar.',
+      tech: ['HTML', 'CSS', 'TailwindCSS', 'JS', 'React'],
+      link: 'https://cearaenergiaengenharia.vercel.app'
     }
   ];
 
