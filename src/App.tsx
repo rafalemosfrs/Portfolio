@@ -40,6 +40,12 @@ function App() {
       description: 'Um site moderno e minimalista para uma empresa de engenharia elétrica voltada para a energia solar.',
       tech: ['HTML', 'CSS', 'TailwindCSS', 'JS', 'React'],
       link: 'https://cearaenergiaengenharia.vercel.app'
+    },
+    {
+      name: 'Linkfour',
+      description: 'Um trabalho de reconstrução do aplicativo/site Linktree, feito com React.',
+      tech: ['HTML', 'CSS', 'TailwindCSS', 'JS', 'React', 'Node.js', 'SQL', 'Vercel', 'NeonDB', 'Render', 'Git'],
+      link: 'https://link-four.vercel.app'
     }
   ];
 
